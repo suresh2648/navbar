@@ -22,7 +22,7 @@ nav ul{
 }
 nav ul li{
     list-style: none;
-    padding: 10px;
+    /* padding: 10px; */
 }
 nav ul li a{
     text-decoration: none;
@@ -46,7 +46,7 @@ nav ul li a{
         right: 0;
         flex-direction: column;
         text-align: center;
-        /* overflow: hidden; */
+        overflow: hidden;
         background-color:#205781;
        transition: all 0.6s ease-in-out;
        padding: 5px;
